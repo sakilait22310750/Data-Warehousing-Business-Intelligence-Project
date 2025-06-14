@@ -1,0 +1,26 @@
+product_id,name,category,price
+P001,Fantech Mouse,PC Accessories,4250
+P002,MSI Headset,PC Accessories,15000
+P003,Table Lamp,Mobile Accessories,1500
+P004,Mouse Pad,PC Accessories,999
+P005,Phone Holder,Mobile Accessories,3000
+P006,Mobile Screen Protector,Mobile Accessories,850
+P007,"ASUS 24"" Monitor",PC Accessories,30000
+P008,"Dahua 24"" Monitor",PC Accessories,34000
+P009,Logitech Headset,PC Accessories,12500
+P010,Logitech Mouse,PC Accessories,5600
+P011,Portable Bluetooth Speaker,Audio,6500
+P012,Wireless Charger,Mobile Accessories,2800
+P013,Gaming Keyboard,PC Accessories,9500
+P014,USB Cable (Type-C),Mobile Accessories,600
+P015,Power Bank (10000mAh),Mobile Accessories,4500
+P016,Webcam (1080p),PC Accessories,7800
+P017,Smartwatch,Wearable Technology,22000
+P018,Fitness Tracker,Wearable Technology,8900
+P019,External Hard Drive (1TB),Storage,11000
+P020,USB Flash Drive (64GB),Storage,2500
+P021,Laptop Cooling Pad,PC Accessories,3200
+P022,True Wireless Earbuds,Audio,18000
+P023,Ring Light with Tripod,Mobile Accessories,5200
+P024,Graphics Card (NVIDIA),PC Accessories,85000
+P025,Smart Home Hub,Smart Home,15000
